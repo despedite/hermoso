@@ -1,2 +1,2 @@
-# hermoso
-Una librería de Python para cambiar el color del texto en la línea de comandos.
+# hermoso.py
+Ponele color a tu línea de comandos! 
